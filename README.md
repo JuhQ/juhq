@@ -1,4 +1,7 @@
+# 🦀<sup>🦆<sup>🐸</sup></sup><sub>🛸<sub>👽</sub></sub>
+
 [juhq.fi](https://juhq.fi)
+
 
 ```mermaid
 graph TD
@@ -21,3 +24,6 @@ graph TD
 
 > [!NOTE]
 > Hello friend
+
+
+- [ ] 🥳
