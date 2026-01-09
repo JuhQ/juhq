@@ -20,6 +20,10 @@ graph TD
 
 > [!NOTE]
 > Hello friend
+> 
+<a href="https://juhq.fi" target="_blank" rel="noreferrer nofollow noopener">
+  <img src="https://juhq.fi/static/media/juhqbutton.8e6e7eba63e42f3148dc.png" alt="juhq best" width="88" height="31" />
+</a>
 
 🥳
 
